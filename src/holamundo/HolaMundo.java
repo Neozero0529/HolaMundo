@@ -30,6 +30,7 @@ public class HolaMundo {
         System.out.println("Escribe un mensaje de bienvenida!");
         String cualQuiercosa = input.nextLine();
         System.out.println(cualQuiercosa);
+        System.out.println("hola está ahora en github");
     }
     
 }
