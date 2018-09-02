@@ -31,6 +31,7 @@ public class HolaMundo {
         String cualQuiercosa = input.nextLine();
         System.out.println(cualQuiercosa);
         System.out.println("hola está ahora en github");
+        System.out.println("hola está ahora en segunda parte github");
     }
     
 }
